@@ -5,7 +5,6 @@
 # Kilián Kaminský
 
 ![kilian.png](/img/user/kilian.png)
-
 ## Notes
 
 - Indebted to [[Josef Kolar\|Josef Kolar]]
@@ -47,5 +46,15 @@
 > Sense the Unseen rule: Against an entity actively trying to stay hidden, the Storyteller can call for a blind roll (“Lisa, roll seven dice for me”) as a contest against the target’s relevant pool. (For example, detecting a vampire using Obfuscate would be a roll of Wits + Auspex vs Wits + Obfuscate) If the vampire actively searches for a hidden supernatural entity, they roll Resolve + Auspex similarly.
 > ■ Duration: One scene or until detection
 
+## Merits and Flaws
+
+> [!NOTE]- Merits
+>
+
+> [!NOTE]- Flaws
+
+## Backstory
+
+...
 
 #kindred #malkavian #pc
