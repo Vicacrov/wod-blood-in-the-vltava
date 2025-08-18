@@ -8,7 +8,7 @@
 > 
 > *Regardless of the loss of reputation, as Josef committed no crime by the Traditions, and continued to hold monopoly over most of his previous "clan members'" tastes, he was not persecuted; merely banned from Elysia for approximately a decade, and his influence in the mortal world lost almost nothing to its working process.*
 > 
-> *During his time masquerading as a Ventrue, Josef has sired two childer who now operate as the face of his business; Silvestr, and Václav, both bearing his last name as a signature of legacy.*
+> *During his time masquerading as a Ventrue, Josef has sired two childer who now operate as the face of his business; [[Silvestr Kolar\|Silvestr]], and [[Václav Kolar\|Václav]], both bearing his last name as a signature of legacy.*
 > 
 > *As of recent times, Josef has gone rather quiet, with the disappearance of Václav. It would seem it's time to rake in a few of his many boons...* 
 
