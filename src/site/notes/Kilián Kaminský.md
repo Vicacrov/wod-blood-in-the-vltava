@@ -49,9 +49,10 @@
 ## Merits and Flaws
 
 > [!NOTE]- Merits
->
+> TBA
 
 > [!NOTE]- Flaws
+> TBA
 
 ## Backstory
 
