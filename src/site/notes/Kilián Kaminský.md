@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/kilian-kaminsky/","tags":["gardenEntry"]}
 ---
 
+# Kilián Kaminský
+
 ![kilian.png](/img/user/kilian.png)
 # Disciplines
 ## Dominate
