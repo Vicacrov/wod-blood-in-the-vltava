@@ -6,6 +6,13 @@
 
 ![kilian.png](/img/user/kilian.png)
 
+## Notes
+
+- Indebted to [[Josef Kolar\|Josef Kolar]]
+- Is tasked with finding [[Václav Kolar\|Václav Kolar]]
+- Coteriemate of [[Alistair Rathburn\|Alistair Rathburn]] and [[Potkan\|Potkan]]
+## Disciplines
+
 > [!NOTE]- Dominate
 > ### Cloud Memory
 > By uttering the phrase “Forget!” the user can make the Dominated victim forget the current moment as well as the last few minutes, enough to mask a superficial feeding or a chance meeting. No new memories are formed and if pressed the victim realizes they have a few minutes missing.
@@ -41,4 +48,4 @@
 > ■ Duration: One scene or until detection
 
 
-#malkavian #kindred #pc
+#kindred #malkavian #pc
