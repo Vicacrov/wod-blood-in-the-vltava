@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/kilian-kaminsky/","tags":["gardenEntry"]}
 ---
 
-![kilian3.png](/img/user/images/kilian3.png)
+
 # Disciplines
 ## Dominate
 ### Cloud Memory
