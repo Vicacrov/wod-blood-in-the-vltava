@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kilian-kaminsky/"}
+{"dg-publish":true,"permalink":"/kilian-kaminsky/","tags":["gardenEntry"]}
 ---
 
 
