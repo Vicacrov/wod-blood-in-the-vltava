@@ -49,7 +49,21 @@
 ## Merits and Flaws
 
 > [!NOTE]- Merits
-> TBA
+> ### City Secrets •
+> You have somehow acquired a damning secret about the city’s Kindred power structure, perhaps specifically about someone in it. Decide the exact nature of the information with the Storyteller.
+> A few power players in the city know you have this information, or strongly suspect it. Hopefully, you’ve made arrangements for the secret to get out upon your mysterious disappearance. You could sell this information for a high price, but its truest value is protection: those who want it to stay secret have some interest in keeping you happy. Of course, if you push your luck, they may decide keeping you quiet forever takes higher priority.
+> This Background resembles Influence more than Status in some circumstances; the Storyteller should determine when or if it adds to a Social pool, or possibly a Research or Insight test.> 
+> ### Haven •
+> Small haven, but more secure and private than the default. Examples: basement apartment, crypt, locked storeroom in a warehouse.>
+> ### Ingénue •
+> You look completely innocent and blameless, making others believe in your good intentions much easier. Add two dice to any rolls related to avoiding suspicion or deflect blame, at the Storyteller’s discretion.
+> ### Resources •••
+> Rich: Great condo or nice house, luxury items, highend equipment for several people
+> ### Side Hustler ••
+> Folks on the fringes constantly have to grind to keep the little that they have. Juggling a million tasks, favors, and debts has become second nature to them.
+> Once per session you can get your hands on an item, a piece of information, or access to an event as if you had two dots in the appropriate Resources, Contacts or Influence Background. (Items obtained with Resources likely have to be returned intact.) Often this requires you to spend part of the night calling in markers and pressing your informal network.
+> ### Status •
+> Known: A properly introduced, welcomed neonate, seen as an up-and-comer
 
 > [!NOTE]- Flaws
 > TBA
