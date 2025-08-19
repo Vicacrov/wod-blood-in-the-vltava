@@ -57,7 +57,7 @@
 > Small haven, but more secure and private than the default. Examples: basement apartment, crypt, locked storeroom in a warehouse.>
 > ### Ingénue •
 > You look completely innocent and blameless, making others believe in your good intentions much easier. Add two dice to any rolls related to avoiding suspicion or deflect blame, at the Storyteller’s discretion.
-> ### Resources •••
+> ### Resources ••••
 > Rich: Great condo or nice house, luxury items, highend equipment for several people
 > ### Side Hustler ••
 > Folks on the fringes constantly have to grind to keep the little that they have. Juggling a million tasks, favors, and debts has become second nature to them.
