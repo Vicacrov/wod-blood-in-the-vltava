@@ -101,6 +101,6 @@ Kilián only knew one method to control people: fear. After his introduction, he
 
 Nobody loved him, but he was not unwelcome at any social gathering. Nobody considered him a big threat to get rid of him, but everyone knew he had something on the Prince that made them think twice to carelessly use him as a pawn. He was someone everyone wanted to keep close for entertainment and sometimes information, but given his clan, only at arm's length.
 
-The perfect way of surviving. Alone.
+The perfect way of surviving until his judgement comes. Alone.
 
 #kindred #malkavian #pc
