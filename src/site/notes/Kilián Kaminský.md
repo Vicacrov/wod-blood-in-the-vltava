@@ -11,7 +11,7 @@
 - Indebted to [[Josef Kolar\|Josef Kolar]]
 - Is tasked with finding [[Václav Kolar\|Václav Kolar]]
 - Coteriemate of [[Alistair Rathburn\|Alistair Rathburn]] and [[Potkan\|Potkan]]
-- Touchstones: [[Simona Dušková\|Simona Dušková]] and --
+- Touchstones: [[Simona Dušková\|Simona Dušková]] and [[Rudolf Přibyl\|Rudolf Přibyl]]
 ## Disciplines
 
 > [!NOTE]- Dominate
