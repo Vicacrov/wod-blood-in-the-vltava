@@ -99,7 +99,7 @@ Therefore, her Sire changed tactics. No longer shielding her progeny from the ot
 
 Kilián only knew one method to control people: fear. After his introduction, he attended a few Elysia and observed them quietly. He soon learnt that this society was built upon paranoia and appearances, two areas he excelled in as a mortal - he also learnt that manipulating the mind was not so difficult, after all, even if sometimes he did not know what kind of emotions he was stirring up in his conversational partners. And so, he donned his suit, his most charming smile, and the most unnerving half-truths: and he became one of Prague's socialites who always appeared prim and proper, who always exchanged pleasantries, but someone who was _just_ a bit too unnerving to talk to for more than a few minutes.
 
-Nobody loved him, but he was not unwelcome at any social gathering. Nobody considered him a big threat to get rid of him, but everyone knew he had something on the Prince that made them think twice to carelessly use him as a pawn. He was someone everyone wanted to keep close for entertainment and sometimes information, but given his clan, only at arm's length.
+Nobody loved him, but he was not unwelcome at any social gathering. Nobody considered him a threat big enough to get rid of him, but everyone knew he had something on the Prince that made them think twice to carelessly use him as a pawn. He was someone everyone wanted to keep close for entertainment and sometimes information, but given his clan, only at arm's length.
 
 The perfect way of surviving until his judgement comes. Alone.
 ## Derangement
