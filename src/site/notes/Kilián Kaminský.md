@@ -7,6 +7,7 @@
 ![kilian.png](/img/user/kilian.png)
 ## Notes
 
+- Childe of [[Tereza Králová\|Tereza Králová]]
 - Indebted to [[Josef Kolar\|Josef Kolar]]
 - Is tasked with finding [[Václav Kolar\|Václav Kolar]]
 - Coteriemate of [[Alistair Rathburn\|Alistair Rathburn]] and [[Potkan\|Potkan]]
@@ -70,6 +71,36 @@
 
 ## Backstory
 
-...
+Kilián Kaminský was never a clever man, but he was a _clever_ man.
+
+His childhood and teenage years zoomed past without any major trauma or big incidents. He grew up in a nuclear family, just climbing up to the lower middle-class. However, having always something on the table, yet not being able to afford all the fancy gadgets - the first mobile phones, portable audio players, or even just nice clothes - has always left Kilián dissatisfied. Every now and then, his parents did gift him something above their payroll, but that just deepened their son's hunger for *more*.
+
+Kilián never had any dream careers or hobbies that he stuck with, but by high school, he had one aspiration: to get rich, no matter the method. For a few years, he got caught up with the wrong crowd and did small-time break-ins for the local gangs, enthralled by the aspect of scoring big and quick. The thrill was new and intoxicating, but by his senior year, he realised that this will never get him to the top, to where money really was.
+
+Well-paying jobs that required further education such as medicine or law, were out of question: he knew his limitations, but he also knew his strengths. He was exceptional in handling people and during his criminal years, he had first-hand seen how little people cared for the security of their belongings... Yet how much pain it caused them to lose any of them. Thus, he made a simple, but an oh so profitable conclusion: people are terrified of losing everything they had, but they just did not know how scared they were. All he had to do was to make them *realise* it. 
+
+After high school, he bounced between a few jobs in the security sector to see their internal workings: then, at the age of 23, in 2007 with the help of a hefty loan, he started his own company called the "K Company". It is a widely accepted theory that he named it after himself; however, the truth is that he named it after the protagonist of Franz Kafka's last, unfinished novel, _The Castle's_ K. He never shared this fact with anyone, but he secretly felt very proud of it.
+
+The K Company or K-Comp for those pesky millennials who suddenly started to abbreviate everything started out slow with an average quality of services. What made it immensely successful was the marketing: Kilián used the power of fear and urgency in their campaigns, while employing cheap labour in the form of grad students specialising in human studies - or, what he called, the "future unemployed" - to collect and research statistics about criminal rates and the financial damages one can suffer. These statistics were, of course, skewed to fit his narrative: something that anyone could have looked into to see how false it was, but nobody really cared. And by the time K-Comp was known and used Prague-wide, whether its existence was based on the truth or a lie, it was just accepted as a _necessity_.
+
+By the age of 30, Kilián was rich. He did not enjoy monopoly over his business' sector, but he focused on dealing with big companies - they had the most to lose, after all, and as such, they spared no expenses to protect their assets. In the late 2010s, cybersecurity became an increasingly big problem, something that the K-Comp was not well-versed in. Kilián started looking into the matter, trying to learn just its basics to know what to look for and how to expand his company with it, but something inconvenienced him on the way.
+
+He died.
+
+He has met his future Sire, [[Tereza Králová\|Tereza Králová]] a few times before, but he never *noticed* her. After all, she never sit with him at the big tables: she always stood by the side in the meeting rooms, serving drinks or she was seated completely elsewhere in the fancy restaurants he met his clients at. Kilián was also a man who never cared about romance or even close friendships: all his social relationships were purely transactional. But [[Tereza Králová\|Tereza]] saw him. She saw him crystal clear.
+
+Kilián was Embraced for one reason only. It was not to take his assets, his money, or his position: it was only to humble him. His Sire grabbed the man winning capitalism, yanked him off from the top of his castle down into the dirt everyone else he preyed on was, then took him by the shoulders and told him: it was time to pray the price.
+
+Malkav's vitae in his veins kept his consciousness lucid during his full death and just like every other progeny of his, it fractured his sanity into countless pieces. [[Tereza Králová\|Tereza]]'s blood reanimated him, but he never truly felt returning to Earth. In his perception, this was no longer the world he once lived in: this was his own, personal purgatory, designed to look what his life once was, but never again could be. He never believed in God and this moment did not make him seek His forgiveness either - it was too late, anyhow -, but he instinctively _knew_ what his situation was. A series of trials that would determine his fate.
+
+[[Tereza Králová\|Tereza]] saw a soul to be saved in him: Kilián saw a game that was rigged against him that he could never win. The first year with his Sire was spent in learning to hunt, mostly as a Siren, but these nights, he cannot remember much of it: he had mental breakdowns every fortnight and he was terrified out of his mind by his mentor whenever he was in her vicinity. When his delusions came to the forefront, she was no mere Kindred older than him: she was an angel, a demon, and karma itself sent to punish him. [[Tereza Králová\|Tereza]] never hurt him, she has barely if ever raised her voice with him. But it did not matter - she could not reach the heart of a man's who never let a single person close to him. He feared and revered her, and he did not know how to react to praise and kindness.
+
+Therefore, her Sire changed tactics. No longer shielding her progeny from the world of Kindred, she decided to see the world from his perspective and guide him as such. She told him that he is going to enter the society of similar of him: a society that will swallow him whole and destroy his soul without regret if he showed weakness. How he would appear strong, that would be left up to him, but he had to survive until he redeemed himself. The next night, [[Tereza Králová\|Tereza]] left the city.
+
+Kilián only knew one method to control people: fear. After his introduction, he attended a few Elysia and observed it quietly. He soon learnt that this society was built upon paranoia and appearances, two areas he excelled in as a mortal - he also learnt that manipulating the mind is not so difficult, after all, even if sometimes he did not know what kind of emotions he was stirring up in his conversational partners. And so, he donned his suit, his most charming smile, and the most unnerving half-truths: and he became one of Prague's socialites who always appeared prim and proper, who always exchanged pleasantries, but someone who was _just_ a bit too unnerving to talk to for more than a few minutes.
+
+Nobody loved him, but he was not unwelcome at any social gathering. Nobody considered him a big threat to get rid of him, but everyone knew he had something on the Prince that made them think twice to carelessly use him as a pawn. He was someone everyone wanted to keep close for entertainment and sometimes information, but given his clan, only at arm's length.
+
+The perfect way of surviving. Alone.
 
 #kindred #malkavian #pc
