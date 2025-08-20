@@ -108,6 +108,6 @@ Kilián believes that his Kindred state is what many calls it: damnation, but no
 
 Whenever his derangement comes to the front, and often during his compulsions or even his clear moments, he perceives the world around him as something that is trying to guide him or straight up punishing him, but in a language he does not understand. The people around him are angry at him not because he cracked a disgusting joke, but something he cannot read from the situation. The door in front of him shuts close, but only for him; even if his peers tell him the room is wide open, he believes only _they_ can enter it because they possess something he does not. Genuine caring from someone is a cruel joke from those responsible for his fate, showing him what he could have once had, but never sought out in life because he was _faulty_.
 
-Sometimes, Malkav's insanity results in clarity: sometimes it is a vampire's madness that shows him the way to humanity. It is, however, something he often fails to interpret correctly.
+Sometimes, Malkav's insanity results in clarity: sometimes it is a vampire's madness that shows him the way to humanity, that a hallucination leads him to the right thing to do. He only has to understand it.
 
 #kindred #malkavian #pc
