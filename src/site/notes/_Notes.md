@@ -4,5 +4,5 @@
 
 ## 9th February, 2024
 
-- [[Alistair Rathburn\|Alistair Rathburn]], [[Kilián Kaminský\|Kilián Kaminský]], and [[Potkan\|Potkan]] meet at [[Josef Kolar\|Josef Kolar]]'s place
+- [[Characters/Alistair Rathburn\|Alistair Rathburn]], [[Characters/Kilián Kaminský\|Kilián Kaminský]], and [[Characters/Potkan\|Potkan]] meet at [[Characters/Josef Kolar\|Josef Kolar]]'s place
 

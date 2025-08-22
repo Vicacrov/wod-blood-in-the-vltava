@@ -4,7 +4,7 @@
 
 ## Blood in the Vltava - Introduction
 
-Our story is set in current day Prague, where three young Neonates are brought together by [[Josef Kolar\|Josef Kolar]] - a popular blood peddler with a controversial reputation - to repay him the boons they each owe him. The task he gives this rag tag bunch of strangers? Retrieve his Childe, [[Václav Kolar\|Václav Kolar]], within two weeks' time - or suffer the consequences of leaving him to his fate.
+Our story is set in current day Prague, where three young Neonates are brought together by [[Characters/Josef Kolar\|Josef Kolar]] - a popular blood peddler with a controversial reputation - to repay him the boons they each owe him. The task he gives this rag tag bunch of strangers? Retrieve his Childe, [[Characters/Václav Kolar\|Václav Kolar]], within two weeks' time - or suffer the consequences of leaving him to his fate.
 ## ## A Brief on Prague's History
 
 The original founding of Prague as a Kindred territory is somewhat lost to history, but the medieval legend still lives on; of how the Brujah Prometheans thwarted the Tzimisce Premysls here once upon a time, followed by a rather obscure and long rule of Nosferatu Prince ==Josef Zvi==, for approximately 700 years before his destruction in 1938.
@@ -17,7 +17,7 @@ Rising tensions between the various factions of the both the city and vampiric s
 
 The many casualties and resulting downfalls of the Camarilla across Europe saw ==Carlak== forced to step down, succeeded by the Ventrue ==Markus==. The peace in Prague was never reclaimed onwards, a cold war worldwide continued to rage between the Camarilla and the Anarch Movement. Another attempt to quell the conflict was made by Prince ==Markus== in 2021, who'd invited Kindred from all over the world to his Domain for closure within the same grounds the differences first made the two Sects hostile with one another, but the meeting was abruptly cut short when a Second Inquisition squad attacked the event, and solidified the mistrust for good.
 
-Then Court Herald [[Milena Kinský\|Milena Kinský]] took control of the city when its uppermost governing body perished under the attack, calling a Blood Hunt on any and all Anarchs in the city. She instilled a technology ban within the city to turn the SI agents in the city blind as possible, and led a war effort to wipe the Movement from Prague for the foreseeable future, which she'd ruled as an achievement by 2022.
+Then Court Herald [[Characters/Milena Kinský\|Milena Kinský]] took control of the city when its uppermost governing body perished under the attack, calling a Blood Hunt on any and all Anarchs in the city. She instilled a technology ban within the city to turn the SI agents in the city blind as possible, and led a war effort to wipe the Movement from Prague for the foreseeable future, which she'd ruled as an achievement by 2022.
 
 In the following aftermath with the war ending, Prince Kinský has focused her strategy around laying low, creating inconspicuous influences, and mapping out the city for re-emergence of Kindred control. By 2024, this control has been regained and the SI has cast its eyes elsewhere in the world, allowing the Camarilla to recover its glories.
 ## Sect Policy in Prague
@@ -61,6 +61,6 @@ Though the ban is enforced, Kindred in Prague - especially on the younger side -
 Some exceptions to the rule exist as well, as Kindred seeking to provide or use services that do take advantage of technology may appeal to the Prince for permissions, while providing sufficient evidence of the taken security and encryption measures. 
 ## Primogen Council
 
-The Primogen council of Prague consists of four Kindred; the Tremere High Regent [[Stela Červený\|Stela Červený]], the Ventrue [[Ester Votava\|Ester Votava]], the Toreador [[Regina Zámecký\|Regina Zámecký]], and the Nosferatu [[Clemens\|Clemens]]. Though Prague's Primogen council simply consists of influential figures in the city that are well familiar with it, rather than Clan representatives, it is the open secret that their Clans are often the most privileged.
+The Primogen council of Prague consists of four Kindred; the Tremere High Regent [[Characters/Stela Červený\|Stela Červený]], the Ventrue [[Characters/Ester Votava\|Ester Votava]], the Toreador [[Characters/Regina Zámecký\|Regina Zámecký]], and the Nosferatu [[Characters/Clemens\|Clemens]]. Though Prague's Primogen council simply consists of influential figures in the city that are well familiar with it, rather than Clan representatives, it is the open secret that their Clans are often the most privileged.
 
 On occasion, the Primogen invites guest Advisors who are typically the leader figures in the less powerful clans of the city, though their word gets much less definitive attention than that of the Primogen.

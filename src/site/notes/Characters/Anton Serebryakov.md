@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/anton-serebryakov/"}
 ---
 
-![anton.png](/img/user/anton.png)
+![anton.png](/img/user/Images/anton.png)
 
 The Gangrel Sheriff is an absolute exception to his Clan, being one of the most larger-than-life people one can come across in the city. He is a large man in both width and height, with an enthusiastic and very casual attitude.
 
