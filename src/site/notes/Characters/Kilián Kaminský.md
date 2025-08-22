@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/characters/kilian-kaminsky/"}
 ---
 
-# Kilián Kaminský
-
 ![kilian.png](/img/user/Images/kilian.png)
 ## Notes
 
