@@ -12,4 +12,6 @@
 > 
 > *As of recent times, Josef has gone rather quiet, with the disappearance of Václav. It would seem it's time to rake in a few of his many boons...* 
 
+- [[Characters/Alistair Rathburn\|Alistair Rathburn]], [[Characters/Kilián Kaminský\|Kilián Kaminský]], and [[Characters/Potkan\|Potkan]] talked with him on 9th February, 2024 in The Alchemist Bar that he owns (and booked for the night), and accepted the mission of finding his son, [[Characters/Václav Kolar\|Václav]]
+
 #lasombra #kindred
