@@ -68,8 +68,15 @@
 > Known: A properly introduced, welcomed neonate, seen as an up-and-comer
 
 > [!NOTE]- Flaws
-> TBA
-
+> ### Crisis of Faith •
+> You are terrified of losing control, especially to the Beast that threatens to make a mockery of your faith. Whenever your actions result in a bestial failure, you suffer one point of superficial Willpower damage in addition to any other effects from the roll.
+> ### Enemies ••
+> Build Allies or Enemies from a budget of points based on their Effectiveness and on their Reliability. The maximum points in one Ally is six. Ally or Enemy groups appear in numbers equal to the number of player characters.
+> All Enemies are rated two fewer dots than their Effectiveness; a Gifted mortal Ally costs three dots as an Ally, but only provides one dot as a Flaw. Enemies all have the same Reliability: whenever the Storyteller thinks they should show up, but probably at least once per story.
+> ### Haven (Haunted) •
+> Your haven has a supernatural manifestation in it that you do not control or really even understand. It might just have a ghost, but a Haunted haven could hold a dimensional portal, a cursed meteorite, or anything else you can’t get rid of. Obviously, someone who does understand the manifestation could use it to breach your haven’s security. The Storyteller defines any other effect of the haunting, imposing at least a one-die penalty to affected pools used in the haven per dot of Haunted taken as a Flaw.
+> ### Prestation Debts •
+> You owe another Kindred (or two others) two minor boons. The debt-holder wields more power and influence than you within vampire society, though not necessarily within your sect. They receive a one-die bonus in Social combat against you while they hold your marker. They may call in either of these debts at any time, but practically they do so when you really really don’t want to (or absolutely can’t) pay them off. However, if you do manage to successfully pay off both debts, you don’t need to take another Flaw to “balance” your character. The creditor still likes to lord it over you, though, and retains the one-die bonus.
 ## Backstory
 
 Kilián Kaminský was never a clever man, but he was a _clever_ man.
