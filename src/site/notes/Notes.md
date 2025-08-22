@@ -14,3 +14,4 @@
 - [[Characters/Josef Kolar\|Josef]] suggested to start with the girlfriend, an illegal setup outside The Dancing House where she does slam poetry
 - We go there via taxi, I pitched my company to the taxi driver (as a consumer, not its CEO)
 - We find the establishment where they do slam poetry
+- [[Characters/Naděžda Paček\|Naděžda Paček]] gives us the key to [[Characters/Václav Kolar\|Václav]]'s haven
