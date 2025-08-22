@@ -10,6 +10,8 @@
 - Is tasked with finding [[Characters/Václav Kolar\|Václav Kolar]]
 - Coteriemate of [[Characters/Alistair Rathburn\|Alistair Rathburn]] and [[Characters/Potkan\|Potkan]]
 - Touchstones: [[Characters/Simona Dušková\|Simona Dušková]] and [[Characters/Rudolf Přibyl\|Rudolf Přibyl]]
+- Pitched his company to a random taxi driver
+- Talked with [[Characters/Naděžda Paček\|Naděžda Paček]] and got her help through feigned innocence, by being "worried" about being more and more indebted to [[Characters/Josef Kolar\|Josef]]
 ## Disciplines
 
 > [!NOTE]- Dominate
