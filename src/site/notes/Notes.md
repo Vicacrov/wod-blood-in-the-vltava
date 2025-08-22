@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/"}
+{"dg-publish":true,"permalink":"/notes/","tags":["gardenEntry"]}
 ---
 
 ## 9th February, 2024
