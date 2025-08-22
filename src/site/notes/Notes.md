@@ -15,3 +15,4 @@
 - We go there via taxi, I pitched my company to the taxi driver (as a consumer, not its CEO)
 - We find the establishment where they do slam poetry
 - [[Characters/Naděžda Paček\|Naděžda Paček]] gives us the key to [[Characters/Václav Kolar\|Václav]]'s haven, we go there via subway
+- [[Characters/Potkan\|Potkan]] mentions the name Zelios was drilled into him, but he does not know why (he is a grandgrandsire?)
