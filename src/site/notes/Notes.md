@@ -12,3 +12,5 @@
 - The Globe Cafe and Bookstore is one of the Chantries, [[Characters/Alistair Rathburn\|Alistair]] is a regular to it
 	- He got a first edition of The Torah from [[Characters/Josef Kolar\|Josef]], thus becoming indebted to him
 - [[Characters/Josef Kolar\|Josef]] suggested to start with the girlfriend, an illegal setup outside The Dancing House where she does slam poetry
+- We go there via taxi, I pitched my company to the taxi driver (as a consumer, not its CEO)
+- We find the establishment where they do slam poetry
