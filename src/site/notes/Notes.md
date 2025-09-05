@@ -4,7 +4,7 @@
 
 # Notes
 
-## 9th February, 2024
+## 9th February, 2024 / Session 1
 
 - [[Characters/Alistair Rathburn\|Alistair Rathburn]], [[Characters/Kilián Kaminský\|Kilián Kaminský]], and [[Characters/Potkan\|Potkan]] meet at [[Characters/Josef Kolar\|Josef Kolar]]'s place
 	- The Alchemist Bar, located in the Old Town
@@ -16,3 +16,8 @@
 - We find the establishment where they do slam poetry
 - [[Characters/Naděžda Paček\|Naděžda Paček]] gives us the key to [[Characters/Václav Kolar\|Václav]]'s haven, we go there via subway
 - [[Characters/Potkan\|Potkan]] mentions the name Zelios was drilled into him, but he does not know why (he is a grandgrandsire?)
+
+## 9th February, 2024 / Session 2
+
+- A regular apartment, clean but used
+- 
