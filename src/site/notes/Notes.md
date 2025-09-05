@@ -34,6 +34,9 @@
 	- He offered [[Characters/Kilián Kaminský\|Kilián]] a deal that he reports things first to him instead of [[Characters/Josef Kolar\|Josef]]
 		- [[Characters/Kilián Kaminský\|Kilián]] told him he will first see what the information is, then he will make an offer
 - [[Characters/Alistair Rathburn\|Alistair]] received a blood bag as an apology from [[Characters/Kilián Kaminský\|Kilián]], then opened the box and read the notes
-	- "Meet me in the usual spot under the tree - 7th February, Nudle"
-		- [[Characters/Potkan\|Potkan]] knows that Nudle is a Nosferatu
-		- [[Characters/Kilián Kaminský\|Kilián]] knows that he is a Kindred security specialist
+	- "Meet me in the usual spot under the tree - 6th February, Nudle"
+		- [[Characters/Václav Kolar\|Václav]] went missing the next night
+		- [[Characters/Potkan\|Potkan]] knows that [[Characters/Nudle\|Nudle]] is a Nosferatu
+		- [[Characters/Kilián Kaminský\|Kilián]] knows that he is a Kindred security specialist and has his contact information
+	- Meeting times with [[Characters/Nudle\|Nudle]], dates back to the start of January
+	- [[Characters/Kilián Kaminský\|Kilián]] calls [[Characters/Nudle\|Nudle]]
