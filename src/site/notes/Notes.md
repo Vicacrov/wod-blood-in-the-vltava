@@ -40,3 +40,10 @@
 		- [[Characters/Kilián Kaminský\|Kilián]] knows that he is a Kindred security specialist and has his contact information
 	- Meeting times with [[Characters/Nudle\|Nudle]], dates back to the start of January
 	- [[Characters/Kilián Kaminský\|Kilián]] calls [[Characters/Nudle\|Nudle]]
+
+## 9th February, 2024 / Session 3
+
+- We met [[Characters/Nudle\|Nudle]] in his haven (?), where he lied to us
+	- He knew [[Characters/Václav Kolar\|Václav]] was in danger and he knew about the shawarma place
+- The under the tree thing was an internet café owned by [[Characters/Alois Šulc\|Alois Šulc]], he showed us video tapes of [[Characters/Nudle\|Nudle]] and [[Characters/Václav Kolar\|Václav]] meeting, but [[Characters/Václav Kolar\|Václav]] not leaving the shawarma place
+- We went into the the restaurant, found a hatch underground and entered it (except for [[Characters/Alistair Rathburn\|Alistair]]), who was distracting the mortals
